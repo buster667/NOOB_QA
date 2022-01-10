@@ -1,4 +1,5 @@
 
+    requests_hw.py
     1) Используя сервис https://fakerestapi.azurewebsites.net и requests библиотеку, написать запросы:
     • GET:
         ◦ Получение списка авторов

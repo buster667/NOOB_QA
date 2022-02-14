@@ -1,0 +1,15 @@
+    a. Dynamic Controls
+        i. Найти чекбокс
+        ii. Нажать на кнопку
+        iii. Дождаться надписи “It’s gone”
+        iv. Проверить, что чекбокса нет
+        v. Найти инпут
+        vi. Проверить, что он disabled
+        vii. Нажать на кнопку
+        viii. Дождаться надписи “It's enabled!”
+        ix. Проверить, что инпут enabled
+
+
+    b. Frames
+        i. Открыть iFrame
+        ii. Проверить, что текст внутри параграфа равен “Your content goes here.”
